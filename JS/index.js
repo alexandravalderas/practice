@@ -47,9 +47,10 @@
 
 //document.write(alexa);
 
-var totalpricedisplay = function(){
-    var total_priceBeans = document.getElementById("Beans").value *40;
-    var total_priceStrange = document.getElementById("Strange").value *30;
-    var total_pricePeso = total_priceBeans+total_priceStrange;
-    return alert("Total Price Of Item in Peso: Php" + total_pricePeso);
+//var totalpricedisplay = function(){
+    //var total_priceBeans = document.getElementById("Beans").value *40;
+    //var total_priceStrange = document.getElementById("Strange").value *30;
+    //var total_pricePeso = total_priceBeans+total_priceStrange;
+    //return alert("Total Price Of Item in Peso: Php" + total_pricePeso);
+    
 }
